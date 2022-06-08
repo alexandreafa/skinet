@@ -1,0 +1,7 @@
+obj
+bin
+API/appsettings.json
+*.db
+*.db-shm
+*.db-wal
+docker
